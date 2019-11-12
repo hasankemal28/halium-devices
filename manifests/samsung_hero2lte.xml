@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/samsung/herolte" name="android_device_samsung_herolte" remote="los" />
+    <project path="device/samsung/hero2lte" name="android_device_samsung_hero2lte" remote="los" />
     <project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="los" />
 
     <project path="hardware/samsung" name="Halium/android_hardware_samsung" remote="hal" />
